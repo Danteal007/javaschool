@@ -12,10 +12,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : Alexey Shlyk
-* Codeship : 
-
-Example of Codeship badge. Please remove the example before you send us the link.
-
+* Codeship : [ ![Codeship Status for tschool/javaschoolexam](https://app.codeship.com/projects/346851/builds/42152036?pipeline=902f16b9-a94f-4c70-a195-3a0bd0b31691)](https://app.codeship.com/projects/346851)
 
 ### How to start?  ###
 * Install [GIT](https://git-scm.com/) and [Maven](https://maven.apache.org)
