@@ -12,7 +12,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : Alexey Shlyk
-* Codeship : [ ![Codeship Status for tschool/javaschoolexam](https://app.codeship.com/projects/346851/builds/42152036?pipeline=902f16b9-a94f-4c70-a195-3a0bd0b31691)](https://app.codeship.com/projects/346851)
+* Codeship : [ ![Codeship Status for tschool/javaschoolexam](https://app.codeship.com/projects/3b1fea80-6b92-0137-8073-2a91bb9c3952/status?branch=master)](https://app.codeship.com/projects/346851)
 
 ### How to start?  ###
 * Install [GIT](https://git-scm.com/) and [Maven](https://maven.apache.org)
